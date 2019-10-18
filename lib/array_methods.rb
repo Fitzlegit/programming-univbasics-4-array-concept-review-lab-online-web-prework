@@ -7,8 +7,8 @@ def find_max_value(array)
   array_max = array
   index = 1
   while index < array.length do
-    if array[index] > max then
-      
+    if array[index] > array_maxmax then
+      array_max = array[index]
       
   
 end
