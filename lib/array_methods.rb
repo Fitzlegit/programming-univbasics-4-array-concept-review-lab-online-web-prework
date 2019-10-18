@@ -10,7 +10,7 @@ def find_max_value(array)
     if array[index] > array_maxmax then
       array_max = array[index]
     end
-    
+  end
     return array_max
 end
 
